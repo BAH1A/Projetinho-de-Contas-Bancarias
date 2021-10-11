@@ -1,0 +1,16 @@
+C:\Users\Jeferson\source\repos\ProjetodeContas\bin\Debug\net5.0\ProjetodeContas.exe
+C:\Users\Jeferson\source\repos\ProjetodeContas\bin\Debug\net5.0\ProjetodeContas.deps.json
+C:\Users\Jeferson\source\repos\ProjetodeContas\bin\Debug\net5.0\ProjetodeContas.runtimeconfig.json
+C:\Users\Jeferson\source\repos\ProjetodeContas\bin\Debug\net5.0\ProjetodeContas.runtimeconfig.dev.json
+C:\Users\Jeferson\source\repos\ProjetodeContas\bin\Debug\net5.0\ProjetodeContas.dll
+C:\Users\Jeferson\source\repos\ProjetodeContas\bin\Debug\net5.0\ref\ProjetodeContas.dll
+C:\Users\Jeferson\source\repos\ProjetodeContas\bin\Debug\net5.0\ProjetodeContas.pdb
+C:\Users\Jeferson\source\repos\ProjetodeContas\obj\Debug\net5.0\ProjetodeContas.csproj.AssemblyReference.cache
+C:\Users\Jeferson\source\repos\ProjetodeContas\obj\Debug\net5.0\ProjetodeContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeferson\source\repos\ProjetodeContas\obj\Debug\net5.0\ProjetodeContas.AssemblyInfoInputs.cache
+C:\Users\Jeferson\source\repos\ProjetodeContas\obj\Debug\net5.0\ProjetodeContas.AssemblyInfo.cs
+C:\Users\Jeferson\source\repos\ProjetodeContas\obj\Debug\net5.0\ProjetodeContas.csproj.CoreCompileInputs.cache
+C:\Users\Jeferson\source\repos\ProjetodeContas\obj\Debug\net5.0\ProjetodeContas.dll
+C:\Users\Jeferson\source\repos\ProjetodeContas\obj\Debug\net5.0\ref\ProjetodeContas.dll
+C:\Users\Jeferson\source\repos\ProjetodeContas\obj\Debug\net5.0\ProjetodeContas.pdb
+C:\Users\Jeferson\source\repos\ProjetodeContas\obj\Debug\net5.0\ProjetodeContas.genruntimeconfig.cache
